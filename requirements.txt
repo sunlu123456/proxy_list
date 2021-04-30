@@ -21,7 +21,7 @@ pywin32-ctypes==0.2.0
 redis==2.10.6
 requests==2.22.0
 termcolor==1.1.0
-urllib3==1.25.5
+urllib3==1.25.8
 useragent==0.1.1
 Werkzeug==0.16.0
 xlrd==1.2.0
